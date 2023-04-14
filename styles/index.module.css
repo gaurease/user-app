@@ -1,0 +1,37 @@
+.home {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .appname {
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 1em;
+  }
+  
+  .login_btn {
+    padding: 1em;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    font-size: 1.2em;
+    border-radius: 5px;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .app_name {
+      font-size: 2em;
+    }
+    .login_btn {
+      font-size: 1em;
+    }
+  }
+  

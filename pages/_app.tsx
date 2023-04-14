@@ -8,9 +8,6 @@ export default function App({ Component, pageProps,router }: AppProps) {
 
   return <ApolloProvider client={client}>
     <ProtectedRoute router={router}>
-      <Head>
-      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
-      </Head>
     <Component {...pageProps} />
     </ProtectedRoute>
   </ApolloProvider>

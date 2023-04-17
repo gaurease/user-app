@@ -11,7 +11,7 @@ You will need [Node.js](https://nodejs.org) installed on your system.
 Get the code by either cloning this repository using git
 
 ```
-git clone [https://github.com/gaurease/user-app.git](https://github.com/gaurease/user-app.git)
+git clone [https://github.com/gaurease/user-app.git]
 ```
 
 ... or [downloading source code](https://github.com/gaurease/user-app/archive/refs/heads/main.zip) code as a zip archive.

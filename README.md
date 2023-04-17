@@ -1,6 +1,6 @@
 # User dashboard Project
 
-Link 👉 https://example-frontend-next-js.sanity-io.now.sh
+Link 👉 [User -app](https://user-app-tan.vercel.app/)
 
 ## Prerequisites
 
@@ -11,10 +11,10 @@ You will need [Node.js](https://nodejs.org) installed on your system.
 Get the code by either cloning this repository using git
 
 ```
-git clone https://github.com/sanity-io/example-frontend-next-js.git
+git clone [https://github.com/gaurease/user-app.git](https://github.com/gaurease/user-app.git)
 ```
 
-... or [downloading source code](https://github.com/sanity-io/example-frontend-next-js/archive/master.zip) code as a zip archive.
+... or [downloading source code](https://github.com/gaurease/user-app/archive/refs/heads/main.zip) code as a zip archive.
 
 Once downloaded, open the terminal in the project directory, and install dependencies with:
 
